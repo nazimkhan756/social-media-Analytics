@@ -3,13 +3,13 @@ A comprehensive Social media Intelligence project built in Exel. Focusinh on dat
 ## Project Brief
 This project focuses on building a **Social media Intelligence Dashboard using Microsoft Exel** to analyze and drive actionable from social media data.
 
-FedEx Logistics Optimization Project
+## FedEx Logistics Optimization Project
 
-Project Overview
+### Project Overview 
 
 This project focuses on optimizing FedEx delivery routes using SQL to support efficient logistics operations and data-driven decision-making.
 
-Objectives
+### Objectives 
 
 - Analyze logistics and delivery-related data.
 - Use SQL queries to retrieve and analyze relevant records.
