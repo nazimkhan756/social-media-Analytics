@@ -30,3 +30,51 @@ Project Files
 Key Skills Demonstrated
 
 SQL querying, data analysis, logistics optimization concepts, and business problem-solving.
+
+
+Walmart Customer Retention Analytics Dashboard
+
+Project Overview
+
+Developed an interactive Power BI dashboard to analyze customer retention, churn behavior, loyalty programs, repeat purchases, and customer lifetime value.
+
+Tools Used
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+
+Key Performance Indicators
+
+- Churn Rate
+- Repeat Purchase Rate
+- Customer Lifetime Value (CLV)
+- Customer Loyalty Tier Distribution
+- Churn Reason Analysis
+
+Dashboard Pages
+
+1. KPIs Dashboard
+2. Loyalty & Promotion Impact
+3. Store & Channel Insights
+4. Customer Segmentation
+
+Business Objectives
+
+- Identify customers at risk of churn.
+- Analyze repeat purchasing behavior.
+- Evaluate loyalty program performance.
+- Understand promotion and channel effectiveness.
+- Recommend strategies to improve customer retention.
+
+Recommendations
+
+- Provide personalized rewards to high-value customers.
+- Develop targeted campaigns for inactive customers.
+- Evaluate promotional offers based on repeat purchases.
+- Improve customer engagement across sales channels.
+
+Project File
+
+"Walmart project 2.pbix"
